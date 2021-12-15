@@ -1,0 +1,41 @@
+.header {
+  padding: .5em;
+}
+
+.header .top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header .top .left {
+  display: flex;
+}
+
+.header .top .left i {
+  padding: 1em;
+}
+
+.header .top .mid {
+  text-align: center;
+}
+
+.header .top .mid a img {
+  width: 25%;
+}
+
+.header .top .right {
+  display: flex;
+  height: 3em;
+}
+
+.header .top .right i {
+  padding: 1.12em;
+}
+
+.header .top .right .btns {
+  padding: 0 1.25em;
+}
+
+.footer .credit {
+  text-align: center;
+}

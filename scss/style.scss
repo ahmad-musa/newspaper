@@ -1,0 +1,49 @@
+.header{
+
+    padding: .5em;
+
+    .top{
+        display: flex;
+        justify-content: space-between;
+
+        .left{
+            display: flex;
+
+            i{
+                padding: 1em;
+            }
+        }
+
+        .mid{
+            text-align: center;
+
+            a{
+                img{
+                    width: 25%;
+                }
+            }
+        }
+
+        .right{
+            display: flex;
+            height: 3em;
+
+            i{
+                padding: 1.12em;
+            }
+            .btns{
+                padding: 0 1.25em;
+            }
+        }
+    }
+
+    
+
+}
+
+.footer{
+
+    .credit{
+        text-align: center;
+    }
+}
